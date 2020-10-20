@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/Spring-01-servlet/target/
+/Spring-02-HelloMVC/target/
+/spring-03-anno/target/
+/spring-04-json/target/
