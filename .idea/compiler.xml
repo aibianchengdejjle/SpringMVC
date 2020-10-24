@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-04-json" />
         <module name="Spring-02-HelloMVC" />
+        <module name="spring-07-filter" />
         <module name="Spring-01-servlet" />
+        <module name="spring-05-ajax" />
         <module name="spring-03-anno" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
   </component>

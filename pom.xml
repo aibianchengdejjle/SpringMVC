@@ -13,6 +13,9 @@
         <module>Spring-02-HelloMVC</module>
         <module>spring-03-anno</module>
         <module>spring-04-json</module>
+        <module>spring-05-ajax</module>
+        <module>spring-07-filter</module>
+        <module>untitled</module>
     </modules>
     <dependencies>
         <dependency>
